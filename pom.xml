@@ -12,8 +12,8 @@
     <modules>
         <module>test_maven</module>
         <module>test_git</module>
-        <module>maven_tomcat</module>
         <module>test_docker</module>
+        <module>test_tomcat</module>
     </modules><!-- 当前项目的版本号 -->
 
     <properties>
